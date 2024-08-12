@@ -14,3 +14,7 @@ GDPR Data Privacy Auditor is a Python tool designed to evaluate an organizationâ
 ## Installation
 ```bash
 pip install -r requirements.txt
+```
+
+## Usage
+python gdpr_auditor.py dataset.csv
